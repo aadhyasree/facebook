@@ -1,3 +1,3 @@
-echo "hello welcome to devops course"
-to check the merge confilict
+i am checking the stash command since
+we are trying the code updated from another branch
 
